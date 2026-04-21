@@ -57,7 +57,7 @@ function App() {
                 </tr>
               )) : (
                 <tr>
-                  <td colSpan="3">No logs detected yet. Use the Bluetooth app to drop garbage!</td>
+                  <td colSpan="3">No logs detected yet.</td>
                 </tr>
               )}
             </tbody>
